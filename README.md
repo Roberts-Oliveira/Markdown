@@ -5,14 +5,15 @@
 
 Makrdown é uma linguagem de marcação (markup language) leve, escrita em 2004 em Perl por John Gruber e colaboração de Aaron Swartz. Focado no usuário markdown foi criada para ser uma ferramenta fácil para escrever, fácil para ler. Seu design permite a conversão para muitos formatos de saída. Markdown tem grande uso para criação de conteúdo em Fóruns, rich text e arquivos Readme, sua sintaxe de comandos é:
     
-<h2>Títulos </h2>
-<blockquote>
-     # Título nível 1		
-     ## Título nível 2		
-     ### Título nível 3			
-     #### Título nível 4			
-     ##### Título nível 5		
-     ###### Título nível 6		
+<h2>1-Títulos </h2>
+
+ # Título nível 1		
+ ## Título nível 2		
+ ### Título nível 3			
+ #### Título nível 4			
+ ##### Título nível 5		
+ ###### Título nível 6	
+	
 </blockquote>
 Saída
 
@@ -23,14 +24,14 @@ Saída
 ##### Título nível 5
 ###### Título nível 6
 
-<h2>Parágrafos e quebras de linha</h2>
+<h2>2-Parágrafos e quebras de linha</h2>
     <p> Esta é uma linha. </p>	
 	  <p> Este é o primeiro parágrafo br e este o segundo parágrafo.</p>
 
 Saída
 <p> Esta é uma linha.</p>
 <p> Este é o primeiro parágrafo<br> e este o segundo parágrafo.</p>
-<h2>Ênfase</H2>
+<h2>3-Ênfase</H2>
 	    
     <Strong> Data Sciente é fantástico. </strong>
 	Data Sciente é <strong> fantástico. </strong>
@@ -60,9 +61,7 @@ Data Science é _fantástico._
 
 Data Science é <em>**fantástico.**</em>
 
-<h2>Links</h2>
-Para gerar links é necessário usar [] e () onde o texto fica dentro dos colchetes e o link(url) dentro dos parênteses.
-	[],(),<a href=> </a>
+<h2>4-Links</h2>
 
     [Site da DSA](https://www.datascienceacademy.com.br)
     [Site da DSA](https://www.datascienceacademy.com.br "Clique e conheça")
@@ -82,7 +81,8 @@ Saída
 
 <a href="mailto:roberts.oliveira@outlook.com.com">Este é meu email</a>
 
-<h2>Bloco de citação </h2>
+<h2>5-Bloco de citação </h2>
+
     <blockquote> </blockquote>, >
 
     blockquote>
@@ -98,9 +98,8 @@ Saída
 
 >Quando precisar mudar de linha use **br**<br> para não ter problema 
 
-<h2>Listas</h2>
+<h2>6-Listas</h2>
 
-    `*, <ul> </ul>, <ol></ol>`
 As listas podem ser ordenadas e não ordenadas, veja abaixo que todos os exemplos estão na sequência 1,3,2 nas listas não ordenadas a classificação é feita pelo nome definido, na lista ordenada o index mostra a sequência correta.
 
 	
@@ -140,8 +139,8 @@ Saída
 	<li>item2</li>
 </ol>
 
-<h2>Imagens</h2>
-    <img src= />
+<h2>7-Imagens</h2>
+    
 
     ![leitura](http://www.gifs-animados.es/gifs-imagenes/b/biblioteca/gifs-animados-biblioteca-6190163.gif)
     <img src="http://www.gifs-animados.es/gifs-imagenes/b/biblioteca/gifs-animados-biblioteca-3116081.gif" alt = "Leitura"/>
