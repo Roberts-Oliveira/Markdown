@@ -162,7 +162,7 @@ Saída
 - [ ]texto 3
 
 
-<h2>Caracter escape</h2>
+<h2>8-Caracter escape</h2>
 
 Caracteres que podem ser impressos na tela com a \ 
 
@@ -189,7 +189,7 @@ Saída
 
 \(parênteses\)
 
-<h2>Barras horizontais</h2>
+<h2>9-Barras horizontais</h2>
 
     * * * 
     ***
