@@ -7,12 +7,12 @@ Makrdown é uma linguagem de marcação (markup language) leve, escrita em 2004 
     
 <h2>1-Títulos </h2>
 
- # Título nível 1		
- ## Título nível 2		
- ### Título nível 3			
- #### Título nível 4			
- ##### Título nível 5		
- ###### Título nível 6	
+     # Título nível 1		
+     ## Título nível 2		
+     ### Título nível 3			
+     #### Título nível 4			
+     ##### Título nível 5		
+     ###### Título nível 6	
 	
 </blockquote>
 Saída
@@ -25,8 +25,9 @@ Saída
 ###### Título nível 6
 
 <h2>2-Parágrafos e quebras de linha</h2>
+    
     <p> Esta é uma linha. </p>	
-	  <p> Este é o primeiro parágrafo br e este o segundo parágrafo.</p>
+    <p> Este é o primeiro parágrafo <br> e este o segundo parágrafo.</p>
 
 Saída
 <p> Esta é uma linha.</p>
