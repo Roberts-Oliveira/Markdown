@@ -84,14 +84,13 @@ Saída
 <a href="mailto:roberts.oliveira@outlook.com.com">Este é meu email</a>
 
 <h2>5-Bloco de citação </h2>
-
-    <blockquote> </blockquote>, >
-
+    
     blockquote>
     	Aqui você pode inserir seus comentarios<br> sobre o projeto de Data Science
     </blockquote>
     
-    >Quando precisar mudar de linha use **br**<br> para não ter problema 
+    >Quando precisar mudar de linha use **br**<br> para não ter problema
+     
 Saída
 
 <blockquote>
