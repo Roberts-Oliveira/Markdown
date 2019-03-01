@@ -71,6 +71,7 @@ Data Science é <em>**fantástico.**</em>
    	
     obs: O clique e conheça pode ser visto passando o mouse sobre o link
 Saída
+
 [Site da DSA](https://www.datascienceacademy.com.br)
 
 [Site da DSA](https://www.datascienceacademy.com.br "Clique e conheça")
