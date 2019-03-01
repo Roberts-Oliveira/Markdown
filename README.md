@@ -143,12 +143,8 @@ Saída
 <h2>7-Imagens</h2>
     
 
-    ![leitura](http://www.gifs-animados.es/gifs-imagenes/b/biblioteca/gifs-animados-biblioteca-6190163.gif)
-    <img src="http://www.gifs-animados.es/gifs-imagenes/b/biblioteca/gifs-animados-biblioteca-3116081.gif" alt = "Leitura"/>
+       <img src="http://www.gifs-animados.es/gifs-imagenes/b/biblioteca/gifs-animados-biblioteca-3116081.gif" alt = "Leitura"/>
 Saída
-<p><br></p>
-![leitura](http://www.gifs-animados.es/gifs-imagenes/b/biblioteca/gifs-animados-biblioteca-6190163.gif)
-<p><br></p>
 
 <img src="http://www.gifs-animados.es/gifs-imagenes/b/biblioteca/gifs-animados-biblioteca-3116081.gif" alt = "Leitura"/>
 
